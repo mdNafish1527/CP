@@ -1,0 +1,17 @@
+https://codeforces.com/contest/1370/problem/A
+
+Solution.
+minimum divisor of a number is it's half
+
+  just return n / 2 it's the solution
+
+
+https://codeforces.com/problemset/problem/1325/A
+Solution:
+GCD(1,x) is 1
+LCM(1,x) will be x
+
+so sum of GCD(1,x) and LCM(1,x) is always x + 1
+just print n - 1 ans 1
+
+
